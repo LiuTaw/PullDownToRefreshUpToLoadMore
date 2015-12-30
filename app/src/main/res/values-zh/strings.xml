@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PullDownToRefreshUpToLoadMore</string>
+    <string name="load_more">加载更多...</string>
+    <string name="searching">搜索中...</string>
+    <string name="nomoredata">没有更多数据了</string>
+    <string name="find">为您找到</string>
+    <string name="data">条数据</string>
+    <string name="waiting">正在检索中...</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PullDownToRefreshUpToLoadMore</string>
+    <string name="load_more">Load More...</string>
+    <string name="searching">Searching...</string>
+    <string name="nomoredata">No more data</string>
+    <string name="find">Find</string>
+    <string name="data">data for you</string>
+    <string name="waiting">Please wait...</string>
+</resources>
