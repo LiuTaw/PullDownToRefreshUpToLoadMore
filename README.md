@@ -1,5 +1,5 @@
 # PullDownToRefreshUpToLoadMore
-项目里面需要一个下拉刷新操作，我网上找一些源码，但都不怎么理想，后来发现了Demievil的RefreshLayout，个人觉得还不错，但是有一些缺点：上拉加载之后不能保持滚动的位置，头部和尾部如果我需要自定义样式的时候会很麻烦。于是我基于他的源码，我加入了一个文字自定义样式，可以在listview的头部和尾部显示一些文字提示给用户。本项目经过简单修改可以改变成更多样式。
+####项目里面需要一个下拉刷新操作，我网上找一些源码，但都不怎么理想，后来发现了Demievil的RefreshLayout，个人觉得还不错，但是有一些缺点：上拉加载之后不能保持滚动的位置，头部和尾部如果我需要自定义样式的时候会很麻烦。于是我基于他的源码，首先我将数据加载完成之后加入了一个新的计算方法，然后我加入了一个文字自定义样式，可以在listview的头部和尾部显示一些文字提示给用户。本项目经过简单修改可以改变成更多样式。
 ------
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
       <source id="mp4" src="https://github.com/LiuTaw/PullDownToRefreshUpToLoadMore/raw/master/demo.mp4" type="video/mp4">
